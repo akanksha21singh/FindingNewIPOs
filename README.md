@@ -6,7 +6,7 @@ A python script to find out all the new upcoming IPOs, so one doesn't have to ke
 Technologies & language used:
 1. Python
 2. Webscrapping
-3. BeautifulSoap
+3. BeautifulSoup
 4. Basic understanding of html.
 
 You can find the full blog on medium : https://medium.com/@akanksha_singh
